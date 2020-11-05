@@ -16,7 +16,7 @@ For this code be functional is needed:
 ### Steps for using the model
   - Once downloaded the word embedding file `(wiki-it.vec)` it must be placed on ``data`` folder. This folder contains the used BERT model as the weights of its training.
   - Download the weights of the [BERT model](https://storage.googleapis.com/bert_models/2020_02_20/uncased_L-12_H-768_A-12.zip) and place it on `data' folder.
-  - [Train the models](#Training-models-of-the-ensembler.
+  - [Train the models](#Training-models-of-the-ensembler).
   - [Make the predictions over the test files](#Making-Predictions)
 
 ### Training models of the ensembler
