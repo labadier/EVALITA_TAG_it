@@ -4,7 +4,7 @@ This Project constist on a neural network model used for participating in the TA
 It combines learned representations by RNN at word and sentence levels, Transformer Neural Net, specifically BERT arquitecture, and hand-crafted stylistic features. 
 All these representations are mixed and fed into fully connected layer from a fedforward neural network in order to make predictions for addressed subtasks.
 
-The Models description is available [here](https://www.google.com/).
+The Models description is available [here](http://ceur-ws.org/Vol-2765/paper134.pdf).
 
 For this code to be functional is needed:
 - Python 3.8
